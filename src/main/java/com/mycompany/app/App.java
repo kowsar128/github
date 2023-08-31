@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Wellcome To CSM Class!" );
+        System.out.println( "Wellcome To Jenkins Folder!" );
     }
 }
